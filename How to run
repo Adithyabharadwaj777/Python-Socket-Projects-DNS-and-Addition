@@ -31,3 +31,13 @@ Edit
 cd dns_resolver
 python client_dns.py
 Type in a domain name like google.com to get its IP address.
+
+Project 3: CRC
+# Terminal 1
+cd crc
+python server_crc.py
+
+# Terminal 2
+cd crc
+python client_crc.py
+
