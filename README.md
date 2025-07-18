@@ -37,16 +37,7 @@ CRC (Cyclic Redundancy Check) is an error-detecting code commonly used in digita
 
 ---
 
-##  How to Run Each Project
 
-> Make sure you have **Python 3.x** installed and use separate terminals for server and client.
 
-### 🔹 Addition Project:
-```bash
-# Terminal 1
-cd addition
-python server_add.py
 
-# Terminal 2
-cd addition
-python client_add.py
+
