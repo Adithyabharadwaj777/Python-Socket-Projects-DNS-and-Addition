@@ -1,0 +1,33 @@
+ Project 1: Number Addition (Client–Server)
+ Open Terminal 1 → Start the server:
+bash
+Copy
+Edit
+cd addition
+python server_add.py
+This will start the server on localhost:65432 and wait for connections.
+
+ Open Terminal 2 → Run the client:
+bash
+Copy
+Edit
+cd addition
+python client_add.py
+Enter two numbers when prompted, and you'll get their sum back.
+
+ Project 2: DNS Resolver (Client–Server)
+ Open Terminal 1 → Start the server:
+bash
+Copy
+Edit
+cd dns_resolver
+python server_dns.py
+This sets up a server that listens for domain names.
+
+ Open Terminal 2 → Run the client:
+bash
+Copy
+Edit
+cd dns_resolver
+python client_dns.py
+Type in a domain name like google.com to get its IP address.
